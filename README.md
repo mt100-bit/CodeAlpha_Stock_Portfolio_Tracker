@@ -74,6 +74,6 @@ Through this project, I practiced working with Python dictionaries and lists, im
 
 ## Author
 
-Meshack
+[**Meshack**](https://github.com/mt100-bit)
 
-**Python Programming Intern — CodeAlpha**
+Python Programming Intern — CodeAlpha
